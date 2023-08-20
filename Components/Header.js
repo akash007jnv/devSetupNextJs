@@ -3,7 +3,7 @@ import React from "react";
 const Header = () => {
   return (
     <nav
-      className=" backdrop-filter backdrop-blur-lg z-50 h-[10vh] flex shadow-md 	
+      className=" backdrop-filter backdrop-blur-lg z-50 h-auto flex shadow-md 	
  stick justify-center items-center top-0 w-full"
     >
       {/* ... Header Content ... */}
